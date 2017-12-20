@@ -1,0 +1,15 @@
+{
+  "name": "frequency-bars",
+  "version": "1.0.0",
+  "description": "From this tutorial https://youtu.be/2O3nm0Nvbi4",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx browser-sync start --server '.' --files '.' --no-notify --no-open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^3.0.2"
+  }
+}
